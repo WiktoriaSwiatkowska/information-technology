@@ -1,0 +1,23 @@
+h1{
+text-align: center;
+}
+section{
+    border: 2px auto solid black;
+}
+th{
+    background-color: black;
+    color: white;
+}
+img{
+    width:200px;
+    height:200px;
+    margin:10px;
+    border:2px solid black;
+}
+input{
+    background-color: blue;
+}
+button{
+    background-color: lightgreen;
+    color: green;
+}

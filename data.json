@@ -1,0 +1,6 @@
+{
+    "subject":"Information technology",
+    "description":"The use of computers, storage, networking devices, and other physical devices to create, process, store, secure, and exchange all forms of electronic data.",
+    "examples":["Software development", "Network administration", "Database management", "Cybersecurity", "Cloud computing" ]  ,
+    "important":true
+}

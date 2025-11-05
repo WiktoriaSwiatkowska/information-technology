@@ -1,0 +1,22 @@
+<IT>
+<device type="mobile">
+<name>laptop</name>
+<RAM>24</RAM>
+<price>80000</price>
+</device>
+<device type="mobile">
+<name>smartphone</name>
+<RAM>4</RAM>
+<price>3000</price>
+</device>
+<device type="stationary">
+<name>desktop</name>
+<RAM>16</RAM>
+<price>60000</price>
+</device>
+<device type="stationary">
+<name>workstation</name>
+<RAM>64</RAM>
+<price>15000</price>
+</device>
+</IT>
