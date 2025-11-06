@@ -3,7 +3,7 @@ text-align: center;
 }
 section{
     border: 2px auto solid black;
-    text-align:initial;
+    text-align: justify;
 }
 th{
     background-color: black;
@@ -22,4 +22,6 @@ button{
     background-color: lightgreen;
     color: green;
 }
-
+ol{
+    border:2px solid black;
+}
